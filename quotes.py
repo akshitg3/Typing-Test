@@ -11,6 +11,15 @@ class Text:
         w = r.random_word()
         res = quote(w, limit=1)
 
-        self.text = res[0]['quote']
+        while res is None:
+            res = quote(w,limit=1)
 
+        self.text = res[0]['quote']
+        self.text = self.text\
+            .replace('‘', "'") \
+            .replace('’', "'") \
+            .replace('“', '"') \
+            .replace('”', '"') \
+            .replace('—', '-')
+        
         return self.text
