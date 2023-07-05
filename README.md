@@ -15,3 +15,13 @@ In the project root, run the following commands:
 
 ### How To Play:
 Type as fast as you can the text displayed on-screen.
+\
+\
+![final_stats](https://github.com/akshitg3/Typing-Test/assets/122071402/98e5cc79-6b22-43d8-89ef-c3c85fdf950d)
+\
+\
+![mid_typing](https://github.com/akshitg3/Typing-Test/assets/122071402/a2d6a47b-a65a-4489-a5e7-11889c2f28ee)
+\
+\
+![typing_mistake](https://github.com/akshitg3/Typing-Test/assets/122071402/e728384f-7890-4af2-a7bb-fd6c565bcf4d)
+
