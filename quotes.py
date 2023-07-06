@@ -20,6 +20,7 @@ class Text:
             .replace('’', "'") \
             .replace('“', '"') \
             .replace('”', '"') \
-            .replace('—', '-')
+            .replace('—', '-') \
+            .replace('–','-')
         
         return self.text
